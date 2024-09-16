@@ -8,7 +8,7 @@ PLEASE NOTE : YOU NEED TO HAVE INSTALLED yt-dlp MODULE, youtube-search-python MO
 FOR WINDOWS USERS : 
   First install FFmpeg using this command in cmd :
     winget install ffmpeg  OR  follow this guide: https://www.wikihow.com/Install-FFmpeg-on-Windows
-  then just execute the link.exe file or the song.exe file.... :)
+  then just execute the link.exe file or the song.exe file.... 😊
 
 FOR LINUX USERS : 
   Create a virtual environment:
@@ -23,3 +23,8 @@ FOR LINUX USERS :
     pip install youtube-search-python
   then you can run the python scripts using :
     python3 link.py  OR  python3 link_gui.py  OR  python3 song.py
+
+Thanks for using my Scripts 😊
+Hope You Like It ! 😊
+
+BYEEEEE 👋
