@@ -22,4 +22,4 @@ FOR LINUX USERS :
     pip install yt-dlp
     pip install youtube-search-python
   then you can run the python scripts using :
-    python3 link.py  OR  python3 song.py
+    python3 link.py  OR  python3 link_gui.py  OR  python3 song.py
