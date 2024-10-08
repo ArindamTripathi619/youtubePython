@@ -14,7 +14,6 @@ FOR WINDOWS USERS :
   First install FFmpeg using this command in cmd :
   <br>
       winget install ffmpeg  
-      <br>
       OR  follow this guide: https://www.wikihow.com/Install-FFmpeg-on-Windows
     <br>
   then just execute the link.exe file or the song.exe file.... 😊
