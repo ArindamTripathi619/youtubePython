@@ -18,7 +18,6 @@ FOR WINDOWS USERS :
   then just execute the link.exe file or the song.exe file.... 😊
   <br>
 <br>
-<br>
 FOR LINUX USERS : 
 <br>
   Create a virtual environment:
