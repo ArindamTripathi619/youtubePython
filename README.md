@@ -43,9 +43,12 @@ youtubePython/
 ├── link.py                    # Command-line video/playlist downloader
 ├── song.py                    # Song search and download tool
 ├── view_logs.py              # Log viewer utility
+├── install.sh                # Linux/macOS installation script
+├── install.ps1               # Windows PowerShell installation script
 ├── logs/                     # Application logs directory
 │   └── youtube_downloader_YYYYMMDD.log
 ├── .venv/                    # Python virtual environment
+├── .gitignore                # Git ignore rules
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 ├── LOGGING.md               # Detailed logging guide
